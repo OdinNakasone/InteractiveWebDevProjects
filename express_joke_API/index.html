@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="device-width, initial-scale=1.0">
+    <title>Joke API</title>
+    <link href="style.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Karma:wght@300&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <h1>Welcome to the Joke API!</h1>
+    <div>
+        <input type="text" id="limit_field" placeholder="Limit Amount - example '4'">
+        <br><br>
+        <select id="category_select" name="category">
+            <option value="all_jokes">All</option>
+            <option value="simple_jokes">Simple Jokes</option>
+            <option value="puns">Puns</option>
+            <option value="dad_jokes">Dad Jokes</option>
+        </select>
+        <br><br>
+       <input id='search' class="btn" type="button" value="Search">
+       <br>
+       <br>
+       <div id="joke_list">
+           <ul>
+               
+           </ul>
+       </div>
+    </div>
+<br>
+<br>
+    <div class="form-div">
+    <form id="form" method="POST" action="http://www.localhost:3000/api">
+        <h4>Enter your joke here:</h4>
+        <input type="text" name="joke">
+        <h4>Enter your answer here:</h4>
+        <input type="text" name="answer">
+        <h4>Enter your category here:</h4>
+        <select name="category">
+            <option value="simple_jokes">Simple Jokes</option>
+            <option value="puns">Puns</option>
+            <option value="dad_jokes">Dad Jokes</option>
+        </select>
+        <br>
+        <br>
+        <input class="btn" type="submit"  value="Add Joke">
+    </form>
+    </div>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

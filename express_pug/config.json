@@ -1,0 +1,12 @@
+{
+    "menu": [
+        ["Home", "/"],
+        ["Page 1", "/page1", ""],
+        ["Page 2", "/page2", ""],
+        ["Potato", "/potato", ""],
+        ["Odin Home", "/hello?name=Odin", ""],
+        ["Neumont", "http://www.neumont.edu", "_blank"],
+        ["TBeatty.com", "http://www.tbeatty.com", "_blank"],
+        ["Odin's Page", "/goodbye/Odin", ""]
+    ] 
+}

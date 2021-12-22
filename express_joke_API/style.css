@@ -1,0 +1,38 @@
+#joke_list{
+  border: black double 10px;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  background-color: #93DCC3;
+  
+}
+
+li{
+  border: black solid 2px;
+  padding: 5px;
+  margin: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  background-color: #B2E6D4;
+  text-align: center;
+  color: #000;
+  font-family: 'Karma', serif;
+}
+
+html{
+  background-color: #B2E6D4;
+  font-family: 'Sansita Swashed', cursive;
+}
+
+.btn{
+  width: 10%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+

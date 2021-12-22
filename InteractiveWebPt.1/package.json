@@ -1,0 +1,30 @@
+{
+  "name": "interactivewebpt.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdinNakasone/InteractiveWebPt.1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdinNakasone/InteractiveWebPt.1/issues"
+  },
+  "homepage": "https://github.com/OdinNakasone/InteractiveWebPt.1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "chart": "^0.1.2",
+    "chart.js": "^2.9.4",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "mongoose": "^5.10.15",
+    "pug": "^3.0.0"
+  }
+}

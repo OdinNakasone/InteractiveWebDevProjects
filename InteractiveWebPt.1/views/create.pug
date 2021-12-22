@@ -1,0 +1,31 @@
+extends layout
+
+block content
+  form(id='createForm' method='post' action='/create')
+    p Username:
+      input(type='text' name='username')
+    p Email:
+      input(type='text' name='email')
+    p Password:
+      input(type='text' name='password')
+    p What is your favorite movie gerne:
+      select(name='movie')
+        option(value='Horror') Horror
+        option(value='Comedy') Comedy
+        option(value='Thriller') Thriller
+        option(value='Action') Action
+    p What is your normal mood:
+      select(name='mood')
+        option(value='Cheerful') Cheerful
+        option(value='Gloomy') Gloomy
+        option(value='Apathetic') Apathetic
+        option(value='Envious') Envious
+    p What is your favorite animal:
+      select(name='animal')
+        option(value='Water Bear') Water Bear
+        option(value='Immortal Jellyfish') Immortal Jellyfish
+        option(value='Sawfish') Sawfish
+        option(value='Axolotl') Axolotl
+   
+    p
+      input(type='submit' value='Add Account' action="/n")

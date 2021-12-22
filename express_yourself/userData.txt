@@ -1,0 +1,113 @@
+
+  first_name: Zach
+  last_name: Beckman
+  address: 343 S 500 E Apt#422
+  phone number: 123-456-7890
+  email: zbeckman@student.neumont.edu
+  -------------------------------
+  
+  first_name: 
+  last_name: 
+  address: 
+  phone number: 
+  email: 
+  -------------------------------
+  
+  first_name: 
+  last_name: 
+  address: 
+  phone number: 
+  email: 
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Odin
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: odindoesstuff@gmail.com
+  -------------------------------
+  
+  first_name: Coby
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: onakasone@student.neumont.edu
+  -------------------------------
+  
+  first_name: Coby
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: onakasone@student.neumont.edu
+  -------------------------------
+  
+  first_name: Coby
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: onakasone@student.neumont.edu
+  -------------------------------
+  
+  first_name: Coby
+  last_name: Nakasone
+  address: 343 S 500 E Apt#422
+  phone number: 808-303-3332
+  email: onakasone@student.neumont.edu
+  -------------------------------
+  
+  first_name: 
+  last_name: 
+  address: 
+  phone number: 
+  email: 
+  -------------------------------
+  
+  first_name: 
+  last_name: 
+  address: 
+  phone number: 
+  email: 
+  -------------------------------
+  

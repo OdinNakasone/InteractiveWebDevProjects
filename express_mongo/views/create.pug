@@ -1,0 +1,19 @@
+extends layout
+
+block content 
+  form(id='form' method='post' action='/create')
+    p Name
+      input(type='text', name='name')
+    p Age
+      input(type='text' name='age')
+    p Species
+      select(name='species')
+        option(value='Human') Human
+        option(value='Ghost') Ghost
+        option(value='Vampire') Vampire
+        option(value='Werewolf') Werewolf
+        option(value='Zombie') Zombie
+    p Image URL:
+      input(type='text' name='image_url')
+    p
+      input(type='submit' value='Add Person')

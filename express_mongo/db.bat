@@ -1,0 +1,1 @@
+"C:\Program Files\MongoDB\Server\4.4\bin\mongod" --dbpath "C:\Users\Odin Nakasone\Documents\Interactive Web Server Stuff\express_mongo\data"

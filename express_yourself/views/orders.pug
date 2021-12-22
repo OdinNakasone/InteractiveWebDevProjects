@@ -1,0 +1,20 @@
+extends layout
+
+block content 
+  div(class='wrap')
+    div(class='headers')
+      h2 Order Here!
+      img(src='smiley_phone.jpg' height='200')
+      form(id='form' method='POST' action='/submitted')
+        p First Name: 
+          input(type='text' name='fname')
+        p Last Name:
+          input(type='text' name='lname')
+        p Address:
+          input(type='text' name='address')
+        p Phone Number:
+          input(type='text' name='phoneNum')
+        p Email:
+          input(type='text', name='email')
+        p
+          input(type='submit' value='Send It!')

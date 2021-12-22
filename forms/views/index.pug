@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h3=title
+  form(id='form' method='POST' action='/submitted')
+    p Name: 
+      input(type='text' name='name')
+    p Age:
+      input(type='text' name='age')
+    p Species:
+      input(type='text' name='species')
+    p Victims:
+      input(type='text', name='victims')
+    p
+      input(type='submit' value='Send It!')

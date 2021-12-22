@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  div(class='wrap')
+    div(class='paragraphs')
+      p Thanks for your order!
+      p First Name: #{user.firstname}
+      p Last Name: #{user.lastname}
+      p Address: #{user.address}
+      p Phone Number: #{user.phoneNum}
+      p Email: #{user.email}
